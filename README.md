@@ -41,17 +41,16 @@ Welcome to SquashersMart, a Django-based marketplace where users can buy and sel
 
 ### Usage
 **User Authentication:**
-
 Register for a new account or log in with existing credentials.
+
 **Product Management:**
-
 Navigate to the "My Listings" section to add, edit, or delete products.
-**Chat System:**
 
+**Chat System:**
 Access the chat feature from the product detail page or user profile.
 Manage conversations in the inbox.
-**User Profile:**
 
+**User Profile:**
 Customize your profile by adding personal information.
 View and manage your listings.
 
