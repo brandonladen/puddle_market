@@ -39,6 +39,29 @@ Welcome to SquashersMart, a Django-based marketplace where users can buy and sel
 7. run `python manage.py migrate`
 8. Then run `python manage.py runserver` to start server
 
+## Screenshots
+**Landing Page**
+
+![Landing Page](media/screenshots/landing_page.png)
+
+**Login Page**
+
+![Login Page](media/screenshots/login_page.png)
+
+**Signup Page**
+
+![Signup Page](media/screenshots/signup_page.png)
+
+**Conversation Page**
+
+![Converstion Page](media/screenshots/conversation_page.png)
+
+**Browse Page**
+
+![Browse Page](media/screenshots/browse_page.png)
+
+
+
 ### Usage
 **User Authentication:**
 Register for a new account or log in with existing credentials.
