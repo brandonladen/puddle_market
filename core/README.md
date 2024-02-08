@@ -30,13 +30,13 @@ Welcome to SquashersMart, a Django-based marketplace where users can buy and sel
 
 ### Installation
 
-1. `git clone https://github.com/brandonladen/puddle_market.git`
-2. `cd puddle_market`
-3. `pip install -r requirements.txt`
-4. `python manage.py makemigrations`
-5. `python manage.py migrate`
-6. `python manage.py runserver`
-7. Open your browser and navigate to http://localhost:8000 to access the application.
+- 1. `git clone https://github.com/brandonladen/puddle_market.git`
+- 2. `cd puddle_market`
+- 3. `pip install -r requirements.txt`
+- 4. `python manage.py makemigrations`
+- 5. `python manage.py migrate`
+- 6. `python manage.py runserver`
+- 7. Open your browser and navigate to http://localhost:8000 to access the application.
 
 ### Usage
 **User Authentication:**
